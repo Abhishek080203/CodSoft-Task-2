@@ -1,9 +1,4 @@
-# Landin gPage
-
-
-
-Live Demo -
-
+# Landing Page
 
 
 
